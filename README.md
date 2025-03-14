@@ -1,4 +1,3 @@
 # FoodWithBenefits
 
-Fantasy premier league team maker,
-atleast that's the plan.
+tinder but for food.
