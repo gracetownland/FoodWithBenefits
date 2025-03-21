@@ -33,7 +33,7 @@ const CuisineList: React.FC = () => {
 
     return (
         <div className = 'p-6'>
-            <h1 className="text-2x1 font-bond mb-4">Explore Cuisines</h1>
+            <h1 className="text-2x1 font-bond mb-4">CHOOSE YOUR CUISINE MORTAL</h1>
             <div className="grid gap-6 grid cols-1 sm:grid cols-2 md:grid-cols-3">
                 {cuisines.map((cuisines, index) => (
                     <CuisineCard
